@@ -1,0 +1,26 @@
+[
+    {
+        "imageUrl": "images/image1.jpg",
+        "name": "Warm Zipper",
+        "description": "Description 1",
+        "price": 300000
+    },
+    {
+        "imageUrl": "images/image1.jpg",
+        "name": "Warm Zipper",
+        "description": "Description 1",
+        "price": 300000
+    },
+    {
+        "imageUrl": "images/image1.jpg",
+        "name": "Warm Zipper",
+        "description": "Description 1",
+        "price": 300000
+    },
+    {
+        "imageUrl": "images/image1.jpg",
+        "name": "Warm Zipper",
+        "description": "Description 1",
+        "price": 300000
+    }
+]
